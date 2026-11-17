@@ -85,11 +85,9 @@ The GGUF model, virtual environment, Python cache files, and local security logs
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/ai-security-guardrails.git
+git clone https://github.com/chethanhb31052001/ai-security-guardrails.git
 cd ai-security-guardrails
 ```
-
-Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username after publishing the repository.
 
 ### 2. Create a Python virtual environment
 
